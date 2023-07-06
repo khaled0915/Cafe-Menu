@@ -1,0 +1,86 @@
+body {
+    background-image: url('Coffee\ beans.png');
+    font-family: sans-serif;
+    padding: 20px;
+  }
+h1{
+    font-size: 50px ;
+
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.est{
+    font-style: italic;
+}
+.Menu{
+    width: 200%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 100px;
+  max-width: 1000px;
+  max-height: 1000px;
+}
+.flavour , .dessert{
+    text-align: left;
+    width: 75%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    /* font-size: large; */
+}
+.price{
+    text-align: right;
+  width: 25%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger
+}
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 30px;
+
+}
+h2{
+    font-size: 50px;
+}
+h1,h2,p{
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px; height: 60px;
+  }
+  hr{
+    height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+h1,h2{
+    
+        font-family: Impact, serif;
+      
+}
+.bottom-line{
+margin-top: 25px;
+}
+a{
+    color: black;
+
+}
+a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  .address {
+    margin-bottom: 5px;
+  }
